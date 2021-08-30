@@ -1,6 +1,6 @@
 /**
-* Template Name: Kelly - v2.1.1
-* Template URL: https://bootstrapmade.com/kelly-free-bootstrap-cv-resume-html-template/
+* Template Name: ShamsiFarook - v2.1.1
+* Template URL: https://bootstrapmade.com/ShamsiFarook-free-bootstrap-cv-resume-html-template/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
